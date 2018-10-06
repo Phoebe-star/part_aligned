@@ -11,8 +11,8 @@ import big_dataset_label as cuhk03_dataset_label2
 import random
 import cmc
 
-import vgg19_trainable as vgg19
-import utils
+#import vgg19_trainable as vgg19
+#import utils
 
 
 
